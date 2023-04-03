@@ -1,7 +1,0 @@
-2023-03-12T13:15:37.2773256 500 : [{"timestamp":"2023-03-12T17:15:37.239+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (530 bytes)]
-2023-03-12T13:15:44.1961168 401 : [no body]
-2023-03-12T13:16:08.5775972 401 : [{"timestamp":"2023-03-12T17:16:08.577+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/accounts/0/balance"}]
-2023-03-12T13:24:45.1684223 401 : [{"timestamp":"2023-03-12T17:24:45.152+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/accounts/0/balance"}]
-2023-03-12T13:28:04.2254471 401 : [{"timestamp":"2023-03-12T17:28:04.209+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/accounts/0/balance"}]
-2023-03-12T13:34:23.7134838 401 : [{"timestamp":"2023-03-12T17:34:23.692+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/accounts/0/balance"}]
-2023-03-12T13:35:54.2124057 401 : [{"timestamp":"2023-03-12T17:35:54.190+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/accounts/0/balance"}]
